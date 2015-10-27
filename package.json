@@ -1,0 +1,27 @@
+{
+  "name": "boulcalendar",
+  "version": "1.0.0",
+  "description": "restaurant shift manager",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+		"chai": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frrakn/boulcalendar.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "frrakn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frrakn/boulcalendar/issues"
+  },
+  "homepage": "https://github.com/frrakn/boulcalendar#readme"
+}
